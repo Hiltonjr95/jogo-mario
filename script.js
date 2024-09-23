@@ -1,4 +1,3 @@
-window.alert("Bom jogo Dudinha")
 var mario = document.querySelector('.mario')
 var cano = document.querySelector('.cano')
 
